@@ -1,8 +1,4 @@
 
-                 (https://www.w3schools.com/java/java_inheritance.asp)
-    
-
-
 
 # OOP-KCA-Project
 Gari Dealership System
