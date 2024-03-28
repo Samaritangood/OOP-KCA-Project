@@ -5,7 +5,7 @@ This repository contains the first phase of the Car Dealership System, a Java pr
 Project Overview
 The Car Dealership System is designed to simulate the management of a car dealership. It allows users to add, remove, sell, and edit vehicles within the dealership's inventory. The system also maintains a sales history to track all vehicle transactions.
 
-Project Structure
+## Project Structure
 The project is structured into multiple Java classes:
 
 Vehicle: An abstract class representing a generic vehicle with common attributes such as make, model, color, year, and price.
