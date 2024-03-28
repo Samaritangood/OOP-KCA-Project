@@ -1,3 +1,11 @@
+
+                    ![Uploading image.png…]()
+    
+
+
+
+
+
 # OOP-KCA-Project
 Gari Dealership System
 This repository contains the first phase of the Car Dealership System, a Java project developed for the CSC 113 course during the second semester of 1445. The project aims to provide a comprehensive understanding of Java programming concepts, including inheritance, polymorphism, abstract classes, and array manipulation.
